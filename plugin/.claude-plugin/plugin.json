@@ -1,0 +1,6 @@
+{
+  "name": "sprite-party",
+  "version": "0.1.0",
+  "description": "A party panel for the session's subagents: each one is a pixel-art sprite from the claude-code-sprites examples (crab, lemon, clover, diamond, rocket, crown or bunny), with HP (context), MP (moves), its current move and a guild of XP across sessions.",
+  "types": "./types/index.d.ts"
+}

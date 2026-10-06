@@ -206,6 +206,27 @@ keys from the file's own `palette` map.
 
 Rows may also be written as JSON arrays with `null` for transparent.
 
+## Claude Code plugin
+
+`plugin/` is a Claude Code plugin, `sprite-party`, that turns the session's
+subagents into a party of these sprites: a `Party` pane shows each subagent as one of the seven
+rainbow mascots (crab, lemon, clover, diamond, rocket, crown, bunny) with its
+mission, current move, HP (context left), MP (moves taken) and a guild of XP
+that outlives the session. `/party` opens the pane.
+
+To install it for yourself, copy the `plugin/` folder to
+`~/.claude/skills/claude-code-sprites/` and start a new session:
+
+```bash
+git clone https://github.com/netzon-jlaw/claude-code-sprites.git /tmp/claude-code-sprites
+cp -R /tmp/claude-code-sprites/plugin ~/.claude/skills/claude-code-sprites
+```
+
+For a repository, copy it to `<repo>/.claude/skills/claude-code-sprites/` and
+commit it. For one session, `claude --plugin-dir path/to/plugin`. The sprites
+are compiled from `examples/` by `node plugin/scripts/build-sprites.mjs`. See
+[plugin/README.md](plugin/README.md) for the full guide.
+
 ## Development
 
 ```bash
