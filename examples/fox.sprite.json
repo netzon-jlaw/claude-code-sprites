@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "name": "fox",
+  "width": 16,
+  "height": 12,
+  "mode": "half",
+  "palette": {
+      "o": "#d77757",
+      "d": "#872f0c",
+      "w": "#faefec",
+      "k": "#120c09"
+  },
+  "pixels": [
+    "- o o - - - - - - - - - - o o -",
+    "- o d o - - - - - - - - o d o -",
+    "- o d d o - - - - - - o d d o -",
+    "- o o o o o o o o o o o o o o -",
+    "- o o o o o o o o o o o o o o -",
+    "- o o k o o o o o o o o k o o -",
+    "- w w o o o o o o o o o o w w -",
+    "- w w w o o o o o o o o w w w -",
+    "- - w w w w o o o o w w w w - -",
+    "- - - w w w w k k w w w w - - -",
+    "- - - - w w w w w w w w - - - -",
+    "- - - - - w w w w w w - - - - -"
+  ]
+}

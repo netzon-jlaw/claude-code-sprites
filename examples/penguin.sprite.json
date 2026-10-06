@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "name": "penguin",
+  "width": 16,
+  "height": 14,
+  "mode": "quadrant",
+  "palette": {
+    "k": "#292220",
+    "w": "#faefec",
+    "o": "#fd9978",
+    "e": "#120c09",
+    "r": "#ffc8e6"
+  },
+  "pixels": [
+    "- - - - - k k k k k k - - - - -",
+    "- - - - k k k k k k k k - - - -",
+    "- - - k k k k k k k k k k - - -",
+    "- - k k w w w w w w w w k k - -",
+    "- - k k w e w w w w e w k k - -",
+    "- - k k w w w w w w w w k k - -",
+    "- - k k r w w o o w w r k k - -",
+    "- - k k w w w o o w w w k k - -",
+    "- k k k w w w w w w w w k k k -",
+    "- k k k w w w w w w w w k k k -",
+    "- k k k w w w w w w w w k k k -",
+    "- - k k w w w w w w w w k k - -",
+    "- - k k k k k k k k k k k k - -",
+    "- - - - o o - - - - o o - - - -"
+  ]
+}

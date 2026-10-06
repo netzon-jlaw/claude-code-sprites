@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "name": "octopus",
+  "width": 16,
+  "height": 12,
+  "mode": "half",
+  "palette": {
+      "p": "#caa2f9",
+      "s": "#ffc8e6",
+      "k": "#120c09",
+      "w": "#faefec",
+      "b": "#f195ca"
+  },
+  "pixels": [
+    "- - - - - p p p p p p - - - - -",
+    "- - - p p p p p p p p p p - - -",
+    "- - p p p p p p p p p p p p - -",
+    "- p p p p w k p p p p w k p p -",
+    "- p p p p k k p p p p k k p p -",
+    "- p p b p p p p p p p p b p p -",
+    "- p p p p p p k p p p p p p p -",
+    "- - p p p p p p p p p p p p - -",
+    "- p p - p p - p p - p p - p p -",
+    "- p s - p s - p s - p s - p s -",
+    "- p - - p - - p - - p - - p - -",
+    "p p - p p - p p - p p - p p - -"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "name": "heart",
+  "width": 11,
+  "height": 10,
+  "mode": "half",
+  "palette": {
+      "r": "#d9736c",
+      "l": "#ff958d"
+  },
+  "pixels": [
+    "- - r r - - - r r - -",
+    "- r l r r - r r r r -",
+    "r l r r r r r r r r r",
+    "r r r r r r r r r r r",
+    "r r r r r r r r r r r",
+    "- r r r r r r r r r -",
+    "- - r r r r r r r - -",
+    "- - - r r r r r - - -",
+    "- - - - r r r - - - -",
+    "- - - - - r - - - - -"
+  ]
+}

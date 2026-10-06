@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "name": "onigiri",
+  "width": 16,
+  "height": 14,
+  "mode": "quadrant",
+  "palette": {
+    "w": "#faefec",
+    "n": "#1e3a2b",
+    "e": "#120c09",
+    "r": "#ffc8e6"
+  },
+  "pixels": [
+    "- - - - - - w w w w - - - - - -",
+    "- - - - - w w w w w w - - - - -",
+    "- - - - - w w w w w w - - - - -",
+    "- - - - w w w w w w w w - - - -",
+    "- - - - w w w w w w w w - - - -",
+    "- - - w w w w w w w w w w - - -",
+    "- - - w w e w w w w e w w - - -",
+    "- - w w w e w w w w e w w w - -",
+    "- - w r r w w w w w w r r w - -",
+    "- - w r r w w e e w w r r w - -",
+    "- - w w w w w w w w w w w w - -",
+    "- n n n n n n n n n n n n n n -",
+    "- n n n n n n n n n n n n n n -",
+    "- - n n n n n n n n n n n n - -"
+  ]
+}

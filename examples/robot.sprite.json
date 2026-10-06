@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "name": "robot",
+  "width": 14,
+  "height": 14,
+  "mode": "half",
+  "palette": {
+      "m": "#30ccea",
+      "d": "#005a6a",
+      "e": "#c7ea89",
+      "a": "#d9736c",
+      "n": "#6a615e"
+  },
+  "pixels": [
+    "- - - - - - a a - - - - - -",
+    "- - - - - - n n - - - - - -",
+    "- - m m m m m m m m m m - -",
+    "- - m d d d d d d d d m - -",
+    "- - m d e e d d e e d m - -",
+    "- - m d e e d d e e d m - -",
+    "- - m d d d d d d d d m - -",
+    "- - m d e d e d e d e m - -",
+    "- - m m m m m m m m m m - -",
+    "- n m m m m m m m m m m n -",
+    "- n m m a m m m m a m m n -",
+    "- - m m m m m m m m m m - -",
+    "- - n n n - - - - n n n - -",
+    "- - n n n - - - - n n n - -"
+  ]
+}

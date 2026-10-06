@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "name": "dragon",
+  "width": 22,
+  "height": 14,
+  "mode": "half",
+  "palette": {
+      "g": "#2b8647",
+      "d": "#006129",
+      "s": "#eca853",
+      "w": "#faefec",
+      "k": "#120c09",
+      "f": "#fd9978",
+      "y": "#f5da71"
+  },
+  "pixels": [
+    "- - - - - - - d - - - - - - - - - - - - - -",
+    "- - - - - - g g g g g - - - - - - - - - - -",
+    "- - - - - g g k w g g g - - - - - - - - - -",
+    "- - - - - g g g g g g g - - - - - - - d - -",
+    "- - f - g g g g g g g g - - - - - - d g - -",
+    "- f y f g g g g g g g g g - - - - d g g - -",
+    "f y y y g g g g g g g g g g g g g g g g - -",
+    "- f y f - - - - - g g s s s s s g g g g g -",
+    "- - f - - - - - - g g s s s s s g g g g g g",
+    "- - - - - - - - - - g g s s s s g g g - g g",
+    "- - - - - - - - - - - g g g g g g g - - - g",
+    "- - - - - - - - - - - g g - - - g g - - - -",
+    "- - - - - - - - - - - g g - - - g g - - - -",
+    "- - - - - - - - - - d d d - - d d d - - - -"
+  ]
+}

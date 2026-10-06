@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "name": "crab",
+  "width": 16,
+  "height": 12,
+  "mode": "quadrant",
+  "palette": {
+    "o": "#d9736c",
+    "k": "#2a1a14"
+  },
+  "pixels": [
+    "- o o - o o - - - - o o - o o -",
+    "- o o o o o - - - - o o o o o -",
+    "- - o o o o - - - - o o o o - -",
+    "- - - o o - - - - - - o o - - -",
+    "- - o o o o o o o o o o o o - -",
+    "- o o o o o o o o o o o o o o -",
+    "- o o o o k o o o o k o o o o -",
+    "- o o o o k o o o o k o o o o -",
+    "- o o o o o o o o o o o o o o -",
+    "- - o o o o o o o o o o o o - -",
+    "- - o - o - o - - o - o - o - -",
+    "- o - o - o - - - - o - o - o -"
+  ]
+}

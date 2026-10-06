@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "name": "cactus",
+  "width": 16,
+  "height": 10,
+  "mode": "quadrant",
+  "palette": {
+    "d": "#006129",
+    "k": "#2a1a14",
+    "o": "#53ab6a"
+  },
+  "pixels": [
+    "- - - - - - o o o o - - - - - -",
+    "- - - - - - o o o o - - - - - -",
+    "- - o o - - o k o k - - o o - -",
+    "- - o o - - o k o k - - o o - -",
+    "- - o o o o o o o o o o o o - -",
+    "- - - - - - o o o o - - - - - -",
+    "- - - - - - o o o o - - - - - -",
+    "- - - - d d d d d d d d - - - -",
+    "- - - - - o o o o o o - - - - -",
+    "- - - - - o o o o o o - - - - -"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "name": "clover",
+  "width": 16,
+  "height": 12,
+  "mode": "quadrant",
+  "palette": {
+    "o": "#53ab6a",
+    "k": "#2a1a14"
+  },
+  "pixels": [
+    "- - o o o o o - - o o o o o - -",
+    "- o o o o o o - - o o o o o o -",
+    "- o o o o o o - - o o o o o o -",
+    "- o o o o o o o o o o o o o o -",
+    "- - - o o o k o o k o o o - - -",
+    "- - - o o o k o o k o o o - - -",
+    "- o o o o o o o o o o o o o o -",
+    "- o o o o o - o o - o o o o o -",
+    "- - o o o o - o o - o o o o - -",
+    "- - - - - - - o o - - - - - - -",
+    "- - - - - - - o o - - - - - - -",
+    "- - - - - - - o o - - - - - - -"
+  ]
+}

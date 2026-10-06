@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "name": "ufo",
+  "width": 18,
+  "height": 12,
+  "mode": "half",
+  "palette": {
+      "a": "#a5c666",
+      "k": "#120c09",
+      "s": "#6a615e",
+      "h": "#8d8481",
+      "c": "#94eaff",
+      "y": "#f5da71"
+  },
+  "pixels": [
+    "- - - - - - c c c c c c - - - - - -",
+    "- - - - - c c c a c c c c - - - - -",
+    "- - - - c c c a a a a c c c - - - -",
+    "- - - - c c a a a a a a c c - - - -",
+    "- - - - c c a k a a k a c c - - - -",
+    "- - - - c c a a a a a a c c - - - -",
+    "- - h h h h h h h h h h h h h h - -",
+    "h h h h h h h h h h h h h h h h h h",
+    "s s y s s s y s s s s y s s s y s s",
+    "- - s s s s s s s s s s s s s s - -",
+    "- - - - - - - y - - y - - - - - - -",
+    "- - - - - - y - - - - y - - - - - -"
+  ]
+}

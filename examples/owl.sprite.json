@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "name": "owl",
+  "width": 14,
+  "height": 14,
+  "mode": "half",
+  "palette": {
+      "b": "#704500",
+      "t": "#eca853",
+      "w": "#faefec",
+      "k": "#120c09",
+      "y": "#f5da71",
+      "f": "#c7852c"
+  },
+  "pixels": [
+    "- b b - - - - - - - - b b -",
+    "- b b b - - - - - - b b b -",
+    "- b b b b b b b b b b b b -",
+    "- b w w w w b b w w w w b -",
+    "- b w k k w b b w k k w b -",
+    "- b w k k w y y w k k w b -",
+    "- b w w w w y y w w w w b -",
+    "- b b b t t b b t t b b b -",
+    "- b b t t t t t t t t b b -",
+    "- b b t b t t t t b t b b -",
+    "- b b t t t t t t t t b b -",
+    "- b b b t t t t t t b b b -",
+    "- - b b b b b b b b b b - -",
+    "- - f f - - - - - - f f - -"
+  ]
+}

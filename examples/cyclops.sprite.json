@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "name": "cyclops",
+  "width": 16,
+  "height": 14,
+  "mode": "quadrant",
+  "palette": {
+    "p": "#a87fd4",
+    "d": "#835cad",
+    "h": "#ffd29e",
+    "w": "#faefec",
+    "k": "#120c09"
+  },
+  "pixels": [
+    "- - h h - - - - - - - - h h - -",
+    "- - h h - - p - - p - - h h - -",
+    "- - p p p p p p p p p p p p - -",
+    "- p p p p p p p p p p p p p p -",
+    "p p p p p w w w w w w p p p p p",
+    "p p p p p w w k k w w p p p p p",
+    "p p p p p w w k k w w p p p p p",
+    "p p p p p w w w w w w p p p p p",
+    "p p p p p p p p p p p p p p p p",
+    "p p p p p k k k k k k p p p p p",
+    "p p p p k w k k k k w k p p p p",
+    "p p p p k k k k k k k k p p p p",
+    "- p p p p p p p p p p p p p p -",
+    "- - d d - - - - - - - - d d - -"
+  ]
+}

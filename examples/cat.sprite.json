@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "name": "cat",
+  "width": 16,
+  "height": 8,
+  "mode": "quadrant",
+  "palette": {
+      "g": "#8a7a73",
+      "d": "#5f524c",
+      "p": "#d9736c"
+  },
+  "pixels": [
+    "- g g - - - - - - - - - - g g -",
+    "- g g g - - - - - - - - g g g -",
+    "- g g g g g g g g g g g g g g -",
+    "- g g g - g g g g g g - g g g -",
+    "- g g g g g g g g g g g g g g -",
+    "- g g g g g g p p g g g g g g -",
+    "- - g g g g d g g d g g g g - -",
+    "- - - g g g g d d g g g g - - -"
+  ]
+}

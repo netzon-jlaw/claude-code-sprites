@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "name": "duck",
+  "width": 16,
+  "height": 8,
+  "mode": "quadrant",
+  "palette": {
+    "d": "#d77757",
+    "k": "#2a1a14",
+    "o": "#f5da71"
+  },
+  "pixels": [
+    "- - - - - o o o o o - - - - - -",
+    "- - - - o o o o o o o - - - - -",
+    "- - d d o o k o o o o - - - - -",
+    "- - d d o o k o o o o - - - - -",
+    "- - - - o o o o o o o o o o o -",
+    "- - - - o o o o o o o o o o o -",
+    "- - - - - o o o o o o o o o - -",
+    "- - - - - - o o o o o o - - - -"
+  ]
+}

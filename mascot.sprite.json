@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "name": "blob",
+  "width": 16,
+  "height": 8,
+  "mode": "quadrant",
+  "palette": {
+      "o": "#d77757",
+      "h": "#ff9a78",
+      "k": "#2a1a14"
+  },
+  "pixels": [
+    "- - - - o o o o o o o o - - - -",
+    "- - - o h h o o o o o o o - - -",
+    "- - o o o o o o o o o o o o - -",
+    "- o o o o - - o o - - o o o o -",
+    "- o o o o - - o o - - o o o o -",
+    "- o o o o o o o o o o o o o o -",
+    "- - o o o k k k k k k o o o - -",
+    "- - - o o o o o o o o o o - - -"
+  ]
+}

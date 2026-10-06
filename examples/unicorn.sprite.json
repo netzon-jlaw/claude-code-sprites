@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "name": "unicorn",
+  "width": 20,
+  "height": 16,
+  "mode": "half",
+  "palette": {
+    "w": "#faefec",
+    "h": "#f5da71",
+    "a": "#eca853",
+    "m": "#f195ca",
+    "v": "#a87fd4",
+    "c": "#ffc8e6",
+    "k": "#120c09"
+  },
+  "pixels": [
+    "- - - - - - - - - - h h - - - - - - - -",
+    "- - - - - - - - - - h h - - - - - - - -",
+    "- - - - - - - - - h h h h - - - - - - -",
+    "- - - - - - - - - a a a a - - - - - - -",
+    "- - - - - - - - - h h h h - - - - - - -",
+    "- - - - w w - - - h h h h - - - w w - -",
+    "- - - w c w w - m m m m m m - w w c w -",
+    "- - - w w w w w m m m m m m w w w w w -",
+    "- - m w w w w w w w w w w w w w w w w -",
+    "- m m w w w k k w w w w w w k k w w w -",
+    "- m m m w w k k w w w w w w k k w w w -",
+    "- v m m m w w w w w w w w w w w w w w -",
+    "- v v m m w c c w w w w w w c c w w w -",
+    "- - v v m w w w w k w w w w k w w w w -",
+    "- - - v v w w w w w k k w w w w w w w -",
+    "- - - - w w w w w w w w w w w w w w - -"
+  ]
+}

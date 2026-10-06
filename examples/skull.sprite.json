@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "name": "skull",
+  "width": 14,
+  "height": 14,
+  "mode": "half",
+  "palette": {
+      "w": "#faefec",
+      "s": "#b2a8a5",
+      "e": "#caa2f9",
+      "k": "#120c09"
+  },
+  "pixels": [
+    "- - - - w w w w w w - - - -",
+    "- - - w w w w w w w w - - -",
+    "- - w w w w w w w w w w - -",
+    "- w w w w w w w w w w w w -",
+    "- w w w w w w w w w w w w -",
+    "- w w - - - w w - - - w w -",
+    "- w w - e - w w - e - w w -",
+    "- w w - - - w w - - - w w -",
+    "- w w w w w - - w w w w w -",
+    "- - w w w w - - w w w w - -",
+    "- - - w w w w w w w w - - -",
+    "- - - w k w k w k w k - - -",
+    "- - - w w w w w w w w - - -",
+    "- - - - s s s s s s - - - -"
+  ]
+}

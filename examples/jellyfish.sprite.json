@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "name": "jellyfish",
+  "width": 16,
+  "height": 14,
+  "mode": "half",
+  "palette": {
+    "h": "#e5d0ff",
+    "p": "#caa2f9",
+    "d": "#a87fd4",
+    "t": "#f195ca",
+    "k": "#2a1a14"
+  },
+  "pixels": [
+    "- - - - - h h h h h h - - - - -",
+    "- - - h h h h h p p p p p - - -",
+    "- - h h h h p p p p p p p p - -",
+    "- h h h p p p p p p p p p p - -",
+    "- h p p p p p p p p p p p p p -",
+    "- p p p k p p p p p p k p p p -",
+    "- p p p p p p p p p p p p p p -",
+    "- p p p p p p k k p p p p p p -",
+    "- d d d d d d d d d d d d d d -",
+    "- d d - - d d - - d d - - d d -",
+    "- t - - - p - t - - - p - t - -",
+    "- - t - p - - - t - p - - - t -",
+    "- - t - p - - - t - p - - - t -",
+    "- t - - - p - t - - - p - t - -"
+  ]
+}

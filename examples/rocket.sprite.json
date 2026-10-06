@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "name": "rocket",
+  "width": 16,
+  "height": 12,
+  "mode": "quadrant",
+  "palette": {
+    "o": "#868be2",
+    "k": "#2a1a14"
+  },
+  "pixels": [
+    "- - - - - - - o o - - - - - - -",
+    "- - - - - - - o o - - - - - - -",
+    "- - - - - - o o o o - - - - - -",
+    "- - - - - - o o o o - - - - - -",
+    "- - - - - o o o o o o - - - - -",
+    "- - - - - o o o o o o - - - - -",
+    "- - - - - o k o o k o - - - - -",
+    "- - - - - o k o o k o - - - - -",
+    "- - - o - o o o o o o - o - - -",
+    "- - o o o o o o o o o o o o - -",
+    "- o o o o o o o o o o o o o o -",
+    "- o o o - - - o o - - - o o o -"
+  ]
+}

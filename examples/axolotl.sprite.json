@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "name": "axolotl",
+  "width": 20,
+  "height": 12,
+  "mode": "half",
+  "palette": {
+    "p": "#ffc8e6",
+    "l": "#f195ca",
+    "g": "#d9736c",
+    "k": "#120c09"
+  },
+  "pixels": [
+    "- - - - - - - - - - - - - - - - - - - -",
+    "- g - - - - - - - - - - - - - - g - - -",
+    "- - g g - - p p p p p p p p - - g g - -",
+    "- - - g - p p p p p p p p p p - g - - -",
+    "g g g p p p p p p p p p p p p p p g g g",
+    "- - - g p p k p p p p p p p k p p g - -",
+    "- - g g p p p p p p p p p p p p p g g -",
+    "g g - g p l l p p k p p k p p l l g - g",
+    "- - g g p p p p p p k k p p p p p p g -",
+    "- - - - p p p p p p p p p p p p p p - -",
+    "- - - - - p p p p p p p p p p p p - - -",
+    "- - - - - p p - - p p p p - - p p - - -"
+  ]
+}

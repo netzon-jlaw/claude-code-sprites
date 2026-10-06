@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "name": "bunny",
+  "width": 16,
+  "height": 10,
+  "mode": "quadrant",
+  "palette": {
+    "k": "#2a1a14",
+    "o": "#f195ca"
+  },
+  "pixels": [
+    "- - - o o - - - - - - o o - - -",
+    "- - - o o - - - - - - o o - - -",
+    "- - - o o - - - - - - o o - - -",
+    "- - - o o o o o o o o o o - - -",
+    "- - o o o o o o o o o o o o - -",
+    "- - o o o k o o o o k o o o - -",
+    "- - o o o k o o o o k o o o - -",
+    "- - o o o o o k k o o o o o - -",
+    "- - o o o o o o o o o o o o - -",
+    "- - - o o - - - - - - o o - - -"
+  ]
+}

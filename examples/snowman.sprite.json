@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "name": "snowman",
+  "width": 18,
+  "height": 18,
+  "mode": "quadrant",
+  "palette": {
+    "w": "#faefec",
+    "d": "#292220",
+    "k": "#120c09",
+    "o": "#fd9978",
+    "r": "#d9736c",
+    "b": "#704500"
+  },
+  "pixels": [
+    "- - - - - - d d d d d d - - - - - -",
+    "- - - - - - d d d d d d - - - - - -",
+    "- - - - d d d d d d d d d d - - - -",
+    "- - - - d d d d d d d d d d - - - -",
+    "- - - - w w w w w w w w w w - - - -",
+    "- - - w w w w w w w w w w w w - - -",
+    "- - - w w k k w w w w k k w w - - -",
+    "- - - w w k k w w w w k k w w - - -",
+    "- - - w w w w w o o o w w w w - - -",
+    "- - - w w w w w o o w w w w w - - -",
+    "- - - w w w k w w w w k w w w - - -",
+    "- - - - w w w k k k k w w w - - - -",
+    "b - - r r r r r r r r r r r r - - b",
+    "b b - r r r r r r r r r r r r - b b",
+    "- b w w w w w w k k w w r r w w b -",
+    "- b w w w w w w w w w w r r w w b -",
+    "- - w w w w w w k k w w w w w w - -",
+    "- - - w w w w w w w w w w w w - - -"
+  ]
+}

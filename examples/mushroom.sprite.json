@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "name": "mushroom",
+  "width": 14,
+  "height": 12,
+  "mode": "half",
+  "palette": {
+      "r": "#d9736c",
+      "w": "#faefec",
+      "c": "#ffd29e",
+      "d": "#c7852c",
+      "k": "#120c09"
+  },
+  "pixels": [
+    "- - - - r r r r r r - - - -",
+    "- - - r r w w r r r r - - -",
+    "- - r r r w w r r r w w - -",
+    "- r r r r r r r r r w w r -",
+    "- r w w r r r r r r r r r -",
+    "r r w w r r r r w w r r r r",
+    "r r r r r r r r w w r r r r",
+    "- - - c c c c c c c c - - -",
+    "- - - c c k c c k c c - - -",
+    "- - - c c c c c c c c - - -",
+    "- - - c c c c c c c c - - -",
+    "- - - d d c c c c d d - - -"
+  ]
+}

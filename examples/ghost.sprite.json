@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "name": "ghost",
+  "width": 16,
+  "height": 12,
+  "mode": "quadrant",
+  "palette": {
+      "w": "#faefec",
+      "p": "#f195ca"
+  },
+  "pixels": [
+    "- - - - - - w w w w - - - - - -",
+    "- - - - w w w w w w w w - - - -",
+    "- - - w w w w w w w w w w - - -",
+    "- - w w w w w w w w w w w w - -",
+    "- - w w - - w w w w - - w w - -",
+    "- - w w - - w w w w - - w w - -",
+    "- - w w w w w w w w w w w w - -",
+    "- - p p w w w w w w w w p p - -",
+    "- - w w w w w w w w w w w w - -",
+    "- - w w w w w w w w w w w w - -",
+    "- - w w w - w w w w - w w w - -",
+    "- - w - - - - w w - - - - w - -"
+  ]
+}

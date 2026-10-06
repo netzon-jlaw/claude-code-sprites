@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "name": "frog",
+  "width": 14,
+  "height": 10,
+  "mode": "half",
+  "palette": {
+      "g": "#53ab6a",
+      "l": "#c7ea89",
+      "k": "#120c09",
+      "w": "#faefec",
+      "p": "#f195ca"
+  },
+  "pixels": [
+    "- g g g - - - - - - g g g -",
+    "g w w k g - - - - g k w w g",
+    "g w k k g g g g g g k k w g",
+    "- g g g g g g g g g g g g -",
+    "g p g g g g g g g g g g p g",
+    "g g k g g g g g g g g k g g",
+    "g g g k k k k k k k k g g g",
+    "g g l l l l l l l l l l g g",
+    "- g l l l l l l l l l l g -",
+    "- g g - - g g g g - - g g -"
+  ]
+}
